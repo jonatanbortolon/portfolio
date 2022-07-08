@@ -2,7 +2,7 @@ import Scrollbars from "react-custom-scrollbars-2";
 import { VscClose } from "react-icons/vsc";
 import useFilesStore from "../../stores/filesStore";
 import { useNavigate } from "react-router-dom";
-import ReactHtmlParser from "react-html-parser";
+import HtmlReactParser from "html-react-parser";
 import {
   CloseFileButton,
   Container,
@@ -70,7 +70,7 @@ function Editor() {
       <EditorWrapper>
         <TextArea>
           {files[selectedFile].content.map((line, index) => (
-            <Line key={index}>{ReactHtmlParser(line)}</Line>
+            <Line key={index}>{HtmlReactParser(line)}</Line>
           ))}
           <Line>
             <Cursor>|</Cursor>
