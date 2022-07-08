@@ -2,6 +2,7 @@ import {
   BrowserRouter as Router,
   Routes as Switch,
   Route,
+  Navigate,
 } from "react-router-dom";
 import Layout from "./layout";
 import Files from "./components/files.json";
@@ -16,6 +17,7 @@ function Routes() {
           <Route key={index} path={`/${file.name}`} element={<Layout />} />
         ))}
         <Route path="/" element={<Layout />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Switch>
     </Router>
   );
