@@ -1,0 +1,59 @@
+[
+  {
+    "name": "home",
+    "extension": "txt",
+    "content": [
+      "<b>Hello!</b>",
+      "<br/>",
+      "My name is Jonatan Gabriel Bortolon, I'm a Fullstack Developer, since I was a child I'm fascinated to build toys with creativity, when I'm discovered computers my entire world changed, it's other universe with infinite possibilities, in the beginning I only played Flash games, but my curiosity talking in my head: \"How games are made? I want to make games too\", so from there I made my first contact with Unity3D and programming and a few years after I discovered NodeJs and I've been using it unil the present.",
+      "Development is my world, grow is my focus, every day learning different things about technologies, people and our universe."
+    ]
+  },
+  {
+    "name": "socials",
+    "extension": "txt",
+    "content": [
+      "My socials where you can find me, feel free to stalk.  : )",
+      "<br/>",
+      "<a href=\"https://github.com/jonatanbortolon\"><b>Github</b></a>",
+      "<a href=\"https://www.linkedin.com/in/jonatanbortolon/\"><b>Linkedin</b></a>",
+      "<a href=\"https://www.instagram.com/jonatanbortolon/\"><b>Instagram</b></a>"
+    ]
+  },
+  {
+    "name": "works",
+    "extension": "txt",
+    "content": [
+      "<b class=\"upper\">Lemarc Sistemas</b>",
+      "<b>Period:</b> 2020/10 - 2022/3",
+      "I helped to port the ERP solution to mobile devices, creating the app using React Native and creating the support server to serve the data using AdonisJS.",
+      "",
+      "<b class=\"upper\">clieent® CRM</b>",
+      "<b>Period:</b> 2021/04 - 2021/12",
+      "I helped maintain the company's flagship, the CRM, and also helped in the development of internal and customer solutions through Laravel, ReactJS, React Native and NodeJS technologies.",
+      "",
+      "<b class=\"upper\">Codeby</b>",
+      "<b>Period:</b> 2022/01 - 2022/03",
+      "I worked as a Junior Frontend developing interfaces in the VTEX and VTEX.IO platform for clients."
+    ]
+  },
+  {
+    "name": "projects",
+    "extension": "txt",
+    "content": [
+      "This is some projects that I developed.",
+      "<br/>",
+      "<a href=\"https://github.com/jonatanbortolon/software-engineer-work\"><b>Software Engineer Work</b></a>",
+      "<i>This project was a Software Engineer work that consist in build a system using all knowledge obtained in class.</i>",
+      "<i>We build a simple ERP system with management of employees, clients, products, stocks and sales using AdonisJS, Tailwind CSS and AlpineJS.</i>",
+      "<br/>",
+      "<a href=\"https://github.com/jonatanbortolon/starwarsuniverse\"><b>StarWars Universe</b></a>",
+      "<i>I made this project to learn NextJS and Konva with a beautiful galaxy map with StarWars planets and it's informations using StarWars public API swapi.dev.</i>",
+      "<br/>",
+      "<a href=\"https://github.com/jonatanbortolon/starwarsuniverse\"><b>C+- Parser</b></a>",
+      "<i>A simple parser for a C like language, C+-, using JFlex and JCup developed in Compilers class.</i>",
+      "<br/>",
+      "<a href=\"https://github.com/jonatanbortolon?tab=repositories\">See all my projects on Github</a>"
+    ]
+  }
+]
