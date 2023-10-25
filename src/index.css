@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: JetBrainsMonoNerdFontMono;
+  src: url(./fonts/JetBrainsMonoNerdFontMono.ttf);
+}
+
+body {
+  @apply w-screen h-screen text-[13px] text-[#939494] select-none bg-[#1e1e1e] overflow-hidden m-0 p-0;
+}
+
+#root {
+  @apply w-full h-full flex;
+} 

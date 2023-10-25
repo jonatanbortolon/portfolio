@@ -1,0 +1,79 @@
+{
+  "_": {
+    "extension": "txt",
+    "modified": true,
+    "content": [
+      "Hello! How are you?",
+      "<br/>",
+      "My name is Jonatan Gabriel Bortolon, and I am a fullstack web developer using JavaScript language technologies.",
+      "<br/>",
+      "In the frontend, I work with React.js and vanilla JavaScript. In the backend, I have experience with Next.js, Express, and websockets, and in mobile development with React Native. Additionally, I have knowledge of relational databases such as MariaDB and Postgres, as well as non-relational databases like MongoDB and Redis. I've also had the opportunity to work with Laravel and VTEX.io.",
+      "<br/>",
+      "During my academic journey, I've had the chance to explore various areas, including Java with Spring Boot, C, Figma, and Software Engineering. These experiences have further enriched my knowledge and provided me with a comprehensive understanding in the field of technology.",
+      "<br/>",
+      "However, I am always open to learning new technologies that go beyond my current scope. Lately, I've shown interest in microcontrollers, MQTT protocol, and game development with Unity3D.",
+      "<br/>",
+      "I am constantly seeking challenges and opportunities that allow me to apply and enhance my skills. If you're interested in a programmer passionate about what they do, I would be delighted to receive your contact."
+    ]
+  },
+  "socials": {
+    "extension": "txt",
+    "modified": true,
+    "content": [
+      "My socials where you can find me, feel free to stalk.  : )",
+      "<br/>",
+      "<a href=\"https://github.com/jonatanbortolon\"><b>Github</b></a>",
+      "<a href=\"https://www.linkedin.com/in/jonatanbortolon/\"><b>Linkedin</b></a>",
+      "<a href=\"https://www.instagram.com/jonatanbortolon/\"><b>Instagram</b></a>"
+    ]
+  },
+  "works": {
+    "extension": "txt",
+    "modified": true,
+    "content": [
+      "<b class=\"upper\">Lemarc Sistemas</b>",
+      "<b>Period:</b> 2020/10 -> 2022/3",
+      "I worked on developing a mobile solution for the company's current ERP system, where I participated in the development of the app using React Native and a server for serving data using AdonisJS 5.",
+      "<br/>",
+      "<b class=\"upper\">clieent® CRM</b>",
+      "<b>Period:</b> 2021/04 -> 2021/12",
+      "I assisted in the development and maintenance of various systems, using PHP in conjunction with Laravel for the backend, and ReactJS for the frontend. I also employed NextJS as a fullstack framework and React Native for mobile development.",
+      "<br/>",
+      "<b class=\"upper\">Codeby</b>",
+      "<b>Period:</b> 2022/01 -> 2022/03",
+      "Through the VTEX platform and VTEX-IO, I assisted in the maintenance of e-commerce websites using HTML, Javascript, and CSS. I utilized ReactJS in VTEX-IO for the frontend and NodeJS on the backend, also integrated with VTEX-IO.",
+      "<br/>",
+      "<b class=\"upper\">CBYK</b>",
+      "<b>Period:</b> 2022/09 -> 2023/01",
+      "I worked on the development and maintenance using NodeJS and ReactJS of a platform intended for internal use at Banco Bradesco."
+    ]
+  },
+  "projects": {
+    "childrens": {
+      "portfolio": {
+        "extension": "txt",
+        "modified": true,
+        "content": [
+          "<a href=\"https://github.com/jonatanbortolon/portfolio\"><b>Portfolio</b></a>",
+          "<i>My personal portfolio.</i>"
+        ]
+      },
+      "starwarsuniverse": {
+        "extension": "txt",
+        "modified": true,
+        "content": [
+          "<a href=\"https://github.com/jonatanbortolon/starwarsuniverse\"><b>StarWars Universe</b></a>",
+          "<i>I made this project to learn NextJS and Konva with a beautiful galaxy map with StarWars planets and it's informations using StarWars public API swapi.dev.</i>"
+        ]
+      },
+      "color-game": {
+        "extension": "txt",
+        "modified": true,
+        "content": [
+          "<a href=\"https://github.com/jonatanbortolon/color-game\"><b>Color game</b></a>",
+          "<i>A game that user needs to anwser what hex color is showing on center square, made for a frontend developer job test.</i>"
+        ]
+      }
+    }
+  }
+}
